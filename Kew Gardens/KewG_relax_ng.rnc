@@ -1,19 +1,25 @@
 start=root
 root = element xml {page+}
-page = element page{n, mixed{(description? | line | character | place | nature | item | body | emotion | stature | cloth | color)*},text}
+page = element page{n, mixed{(description? | line | character | place | nature | item | body | emotion | stature | cloth | color | shape | drink | building | vehicle)*},text}
 description = element description{text}
 line = element line{n}
 n = attribute n{xsd:integer}
 
-character = element character{name?, text}
-place = element place {type?, text}
+character = element character{name?, (text | line)*}
+place = element place {type?, (text | line)*}
 nature = element nature {type?, (text | line)*}
-item = element item {type?, text}
-body = element body {type?, text}
-emotion = element emotion {type?, text}
-stature = element stature {type?, text}
-cloth = element cloth {type?, text}
-color = element color {type?, text}
+item = element item {type?, (text | line)*}
+body = element body {type?, (text | line)*}
+emotion = element emotion {type?, (text | line)*}
+stature = element stature {type?, (text | line)*}
+cloth = element cloth {type?, (text | line)*}
+color = element color {type?, (text | line)*}
+shape = element shape {type?, (text | line)*}
+drink = element drink {type?, (text | line)*}
+building = element building {type?, (text | line)*}
+vehicle = element vehicle {type?, (text | line)*}
+
+
 
 name = attribute name{xsd:NCName}
 type = attribute type {xsd:NCName}
