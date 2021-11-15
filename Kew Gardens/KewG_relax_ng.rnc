@@ -1,28 +1,54 @@
 start=root
-root = element xml {page+}
-page = element page{n, mixed{(description? | line | character | place | nature | item | body | emotion | stature | cloth | color | shape | drink | building | vehicle)*},text}
-description = element description{text}
+
+root = element xml {metadata?, page+}
+
+# ####### METADATA #############
+metadata = element metadata {source, edition}
+source = element source {title, author, illustrator, publisher, pubDate, format, archive, sourceLink}
+title = element title {text}
+author = element author {"Virginia Woolf"}
+illustrator = element illustrator {text}
+publisher = element publisher {text}
+pubDate =  element pubDate {xsd:gYear}
+format = element format {text}
+archive = element archive {text}
+# where is this published online?
+sourceLink = element sourceLink {xsd:anyURI}
+# that's the web address for this document online.
+
+edition = element edition {editor+, consultant*, place, date, license}
+# This element contains information about the edition YOU are creating. 
+editor = element editor {editorid, text}
+consultant = element consultant {editorid, text}
+editorid = attribute xml:id  {"avr" | "yxj" | "edm" | "ebb" | text}
+place = element place {text}
+date = element date {xsd:gYear}
+license = element license {text}
+# indicate that this is in the Public Domain
+
+ # #########################
+
+# Trancription and Markup ##############
+page = element page{n, mixed{(description | line | nature | tech | color | shape )*}}
+description = element description{resp, mixed{nature | tech | color | shape}}
+resp = attribute resp {"#avr" | "#yxj" | "#edm" | "#ebb" | text}
 line = element line{n}
 n = attribute n{xsd:integer}
 
-character = element character{name?, (text | line)*}
-place = element place {type?, (text | line)*}
-nature = element nature {type?, (text | line)*}
-item = element item {type?, (text | line)*}
-body = element body {type?, (text | line)*}
-emotion = element emotion {type?, (text | line)*}
-stature = element stature {type?, (text | line)*}
-cloth = element cloth {type?, (text | line)*}
-color = element color {type?, (text | line)*}
-shape = element shape {type?, (text | line)*}
-drink = element drink {type?, (text | line)*}
-building = element building {type?, (text | line)*}
-vehicle = element vehicle {type?, (text | line)*}
+nature = element nature {natureType, (text | line)*}
+natureType = attribute type {"human-body" | "sky" | "ground" | "water" | "plant" | "animal" |  text}
+
+tech = element tech {techType, (text | line)* }
+techType = attribute type {"building" | "cloth" | "transport" | "parts" | text}
+
+color = element color {(text | line)*}
+
+shape = element shape {(text | line)*}
 
 
 
-name = attribute name{xsd:NCName}
-type = attribute type {xsd:NCName}
+
+
 
 
 
