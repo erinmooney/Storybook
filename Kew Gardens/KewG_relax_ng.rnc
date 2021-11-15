@@ -29,7 +29,9 @@ license = element license {text}
  # #########################
 
 # Trancription and Markup ##############
-page = element page{n, mixed{(description | line | nature | tech | color | shape )*}}
+page = element page{n, facs, mixed{(description | line | nature | tech | color | shape )*}}
+facs = attribute facs {xsd:anyURI}
+# Add these to your pages when Aidan pushes them to the docs/ images/ folder in the GitHub repo.
 description = element description{resp, mixed{nature | tech | color | shape}}
 resp = attribute resp {"#avr" | "#yxj" | "#edm" | "#ebb" | text}
 line = element line{n}
