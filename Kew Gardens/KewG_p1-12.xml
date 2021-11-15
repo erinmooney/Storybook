@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <source>
+        <title>Kew Gardens</title>
+        <author>Virginia Woolf</author>
+        <illustrator>Vanessa Bell</illustrator>
+        <publisher>Hogarth Press</publisher>
+        <pubYear>1927</pubYear>
+    </source>
+
+    <book>
+        <page n="7">
+            <border
+                img="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%2020th%20century/20th%20century%20collection%20items/kew-gardens-by-virginia-f60161-76.jpg">
+                <text> "Fifteen years ago I came here with Lily," he thought. "We sat somewhere over
+                    there by a lake and I begged her to marry me all through the hot afternoon. How
+                    the dragonfly kept circling round us: how clearly I see the dragonfly and her
+                    shoe with the square silver buckle at the toe. All the time I spoke I saw her
+                    shoe and when it moved impatiently I knew without looking up what she was going
+                    to say: the whole of her seemed to be in her shoe. And my love, my desire, were
+                    in the dragonfly; for some reason I thought that if it settled there, on that
+                    leaf, the broad one with the red flower in the middle of it, if the dragonfly
+                    settled on the leaf she would say "Yes" at once. </text>
+            </border>
+        </page>
+
+        <page n="8">
+            <border
+                img="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%2020th%20century/20th%20century%20collection%20items/kew-gardens-by-virginia-f60161-77.jpg">
+                <text> But the dragonfly went round and round: it never settled anywhere—of course
+                    not, happily not, or I shouldn't be walking here with Eleanor and the
+                    children—Tell me, Eleanor. D'you ever think of the past?" <dialogue>"Why do you
+                        ask, Simon?"</dialogue><dialogue>"Because I've been thinking of the past.
+                        I've been thinking of Lily, the woman I might have married.... Well, why are
+                        you silent? Do you mind my thinking of the past?"</dialogue><dialogue>"Why
+                        should I mind, Simon? Doesn't one always think of the past, in a garden with
+                        men and women lying under the trees? Aren't they one's past, all that
+                        remains of it, those men and women, those ghosts lying under the trees, ...
+                        one's happiness, one's reality?"</dialogue>
+                    <dialogue>"For me, a square silver shoe buckle and a
+                    dragonfly—"</dialogue></text>
+            </border>
+        </page>
+
+        <page n="9">
+            <border
+                img="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%2020th%20century/20th%20century%20collection%20items/kew-gardens-by-virginia-f60161-78.jpg">
+                <text>
+                    <dialogue>"For me, a kiss. Imagine six little girls sitting before their easels
+                        twenty years ago, down by the side of a lake, painting the water-lilies, the
+                        first red water-lilies I'd ever seen. And suddenly a kiss, there on the back
+                        of my neck. And my hand shook all the afternoon so that I couldn't paint. I
+                        took out my watch and marked the hour when I would allow myself to think of
+                        the kiss for five minutes only—it was so precious—the kiss of an old
+                        grey-haired woman with a wart on her nose, the mother of all my kisses all
+                        my life. Come, Caroline, come, Hubert."</dialogue> They walked on past the
+                    flower-bed, now walking four abreast, and soon diminished in size among the
+                    trees and looked half transparent as the sunlight and shade swam over their
+                    backs in large trembling irregular patches. </text>
+            </border>
+        </page>
+    </book>
+</xml>
