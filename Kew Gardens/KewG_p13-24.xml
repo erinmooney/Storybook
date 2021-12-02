@@ -2,6 +2,28 @@
 <?xml-model href="KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 
 <xml>
+    
+    <metadata>
+        <source>
+            <title>Kew Gardens</title>
+            <author>Virginia Woolf</author>
+            <illustrator>Vanessa Bell</illustrator>
+            <publisher>Hogarth Press</publisher>
+            <pubDate>1927</pubDate>
+            <format>Book</format>
+            <archive>British Library</archive>
+            <sourceLink></sourceLink>
+        </source>
+        <edition>
+            <editor xml:id="avr edm yxj"></editor>
+            <consultant xml:id="ebb"></consultant>
+            <place>Penn State Behrend</place>
+            <date>2021</date>
+            <license>Public Domain</license>
+        </edition>
+    </metadata>
+    
+    
     <page n="13" facs="../docs/img/page13.jpg">
         <description resp="#yxj">Surrounded by curves. At the top, there is a dashed curve and four shorter
             solid curve. The left and right curves are symmetrical. At the center of bottom, there
