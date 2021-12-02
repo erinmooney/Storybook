@@ -117,7 +117,7 @@
         <line n="8"/>finally starts wide awake and stares at the candle-
         <line n="9"/>stick with all his powers. So the heavy 
         <line n="10"/>woman came to a standstill opposite the 
-        <line n="11"/><shape>oval</shape> shaped flower bed, and ceased even 
+        <line n="11"/><shape>oval</shape> shaped <nature type="plant">flower bed</nature>, and ceased even 
         <line n="12"/>to pretend to listen to what the other woman 
         <line n="13"/>was saying. She stood there letting the words fall 
         <line n="14"/>over her, swaying the top part 
@@ -222,7 +222,7 @@
     <page n="22" facs="../docs/img/page22.jpg">
         <description resp="#yxj">At the top of the page, the picture looks like the roof of a pavilion. We can find a curvy path and three trees both on the left and on the right. At the bottom, there are some fences. </description>
         <line n="1"/>Thus one couple after another with much the same irregular 
-        <line n="2"/>and aimless movement passed the flower-bed and 
+        <line n="2"/>and aimless movement passed the <nature type="plant">flower-bed</nature> and 
         <line n="3"/>were enveloped in layer after layer of <color>green blue</color> 
         <line n="4"/>vapour, in which at first their <nature type="human-body">bodies</nature> had substance 
         <line n="5"/>and a dash of colour, but later both substance and 
