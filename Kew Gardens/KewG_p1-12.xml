@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+
 <xml>
+<!--  edm: Include <source> information into schema  -->
     <source>
         <title>Kew Gardens</title>
         <author>Virginia Woolf</author>
@@ -9,6 +12,32 @@
     </source>
 
     <book>
+        <page n="4">
+            <border>
+                <text>
+                    From the oval-shaped flower-bed there rose perhaps a hundred stalks spreading into heart-shaped or tongue-shaped leaves half way up and unfurling at the tip red or blue or yellow petals marked with spots of colour raised upon the surface ; and from the red, blue or yellow gloom of the throat emerged a straight bar, rough with gold dust and slightly clubbed at the end. 
+                </text>
+            </border>
+        </page>
+        
+        <page n="5">
+            <border>
+                <text>
+                    The petals were voluminous enough to be stirred by the summer breeze, and when they moved, the red, blue and yellow lights passed one over the other, staining an inch of the brown earth beneath with a spot of the most intricate colour. The light fell either upon the smooth grey back of a pebble, or the shell of a snail with its brown circular veins, or, falling into a raindro, it expanded with such intensity of red, blue, and yellow the thin walls of water that one expected them to burst and disappear. Instead the drop was left in a second silver grey once more, and the light now settled upon the flesh of the leaf, revealing the branching thread of fibre beneath the surface, and again it moved on and spread its illumination in the vast green spaces beneath the dome of the heart-shaped and tongue-shaped leaves.
+                </text>
+            </border>
+        </page>
+        
+        <page n="6">
+            <border>
+                <text>
+                    Then the breeze stirred rather more briskley overhead and the colour was flashed into the air above, into the eyes of the men and women who walk in Kew Gardens in July.
+                    The figures of these men and women straggled past the flower-bed with a curiously irregular movement not unlike that of the white and blue butterflies who crossed the turf in zigzag flights from bed to bed. The man was about six inches in front of the woman, strolling carelessly, while she bore on with greater purpose, only turning her head now and then to see that the children were not too far behind. The man kept his distance in front of the woman purposely, though perhaps unconsciously, for he wanted to go on with his thoughts. 
+                </text>
+            </border>
+        </page>
+        
+        
         <page n="7">
             <border
                 img="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%2020th%20century/20th%20century%20collection%20items/kew-gardens-by-virginia-f60161-76.jpg">
