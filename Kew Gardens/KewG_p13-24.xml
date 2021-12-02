@@ -2,7 +2,29 @@
 <?xml-model href="KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 
 <xml>
-    <page n="13" facs="">
+    
+    <metadata>
+        <source>
+            <title>Kew Gardens</title>
+            <author>Virginia Woolf</author>
+            <illustrator>Vanessa Bell</illustrator>
+            <publisher>Hogarth Press</publisher>
+            <pubDate>1927</pubDate>
+            <format>Book</format>
+            <archive>British Library</archive>
+            <sourceLink></sourceLink>
+        </source>
+        <edition>
+            <editor xml:id="avr edm yxj"></editor>
+            <consultant xml:id="ebb"></consultant>
+            <place>Penn State Behrend</place>
+            <date>2021</date>
+            <license>Public Domain</license>
+        </edition>
+    </metadata>
+    
+    
+    <page n="13" facs="../docs/img/page13.jpg">
         <description resp="#yxj">Surrounded by curves. At the top, there is a dashed curve and four shorter
             solid curve. The left and right curves are symmetrical. At the center of bottom, there
             is a circle filled with many dots. There are symmetrical dashed curves on both sides of
@@ -33,7 +55,7 @@
         <line n="19"/>Women in black—&quot;
     </page>
 
-    <page n="14" facs="">
+    <page n="14" facs="../docs/img/page14.jpg">
         <description resp="#yxj">One thick and one thin curve at the top, right and bottom of the text. </description>
         <line n="1"/>Here he seemed to have caught sight of a woman's <tech type="cloth">dress</tech>
         <line n="2"/>in the distance, which in the shade looked a <color>purple black</color>. 
@@ -60,7 +82,7 @@
         <line n="19"/>stoical patience grew slowly deeper 
         <line n="20"/>and deeper. 
     </page>
-    <page n="15" facs="">
+    <page n="15" facs="../docs/img/page15.jpg">
         <description resp="#yxj">Picture of bushes fills at the top. A twist is on the left side and right side of the text. At the bottom, there is thick solid curve, and a rhombus grid breaks it in the middle.</description>
         <line n="1"/>Following his steps so closely as to be slightly puzzled 
         <line n="2"/>by his gestures came two elderly women of the 
@@ -83,7 +105,8 @@
         <line n="19"/>Sugar, flour, kippers, greens, 
         <line n="20"/>Sugar, sugar, sugar.
     </page>
-    <page n="16" facs="">
+    <page n="16" facs="../docs/img/page16.jpg">
+        <description resp="#yxj">At the top, 15 short arcs form a long arc. One thick solid straight line is on the left, and one is on the right. Both they are broken by several petals. At the bottom, some curves and straight lines form the shape of the ground. A large flower and some petals break the sentences in the line 6-16.</description>
         <line n="1"/>The <nature type="human-body">ponderous</nature> woman looked through the pattern of falling 
         <line n="2"/>words at the <nature type="plant">flowers</nature> standing cool, firm and upright 
         <line n="3"/>in the earth, with a curious expression. She saw them 
@@ -104,7 +127,8 @@
         <line n="18"/>they should find a seat 
         <line n="19"/>and have their tea. 
     </page>
-    <page n="17" facs="">
+    <page n="17" facs="../docs/img/page17.jpg">
+        <description resp="#yxj">Curves and straight line form a net which is around left, right and bottom of the page. At the top, there are many flowers and dots.</description>
         <line n="1"/>The <nature type="animal">snail</nature> had now considered every possible method 
         <line n="2"/>of reaching his goal without going round the 
         <line n="3"/>dead <nature type="plant">leaf</nature> or climbing over it. Let alone 
@@ -122,7 +146,8 @@
         <line n="15"/>past outside on the <nature type="plant">turf</nature>. This time they were 
         <line n="16"/>both young, a young man and a young woman.
     </page>
-    <page n="18" facs="">
+    <page n="18" facs="../docs/img/page18.jpg">
+        <description resp="#yxj">The container of this page looks like a big window with a flower at the top. The big window consists of two thin solid lines.</description>
         <line n="1"/>They were both in the prime of youth, 
         <line n="2"/>or even in that season which precedes the prime 
         <line n="3"/>of youth, the season before the smooth <color>pink</color> folds 
@@ -143,7 +168,8 @@
         <line n="17"/>bed, and together pressed the end of her parasol 
         <line n="18"/>deep down into the <nature type="ground">soft earth</nature>. 
     </page>
-    <page n="19" facs="">
+    <page n="19" facs="../docs/img/page19.jpg">
+        <description resp="#yxj">The container of this page looks like a piece of paper whose upper left corner and upper right  corner are slightly rolled up. The bottom the paper consists of six arcs, and each arc has two concentric circles above it. </description>
         <line n="1"/>The action and the fact that his <nature type="human-body">hand</nature> 
         <line n="2"/>rested on the top of hers expressed their feelings 
         <line n="3"/>in a strange way, as these short insignificant words 
@@ -162,7 +188,8 @@
         <line n="16"/>behind her words and stood vast and solid behind 
         <line n="17"/>them; and the mist very slowly rose and uncovered 
     </page>
-    <page n="20" facs="">
+    <page n="20" facs="../docs/img/page20.jpg">
+        <description resp="#yxj">The container of this page looks like a large jar. Its top, left and right consist of two layers of curves. At the bottom, there are 6 smaller jars. Many dots and curves are below them, which form something like cushions. </description>
         <line n="1"/>—O heavens!— what were those shapes?—little 
         <line n="2"/><color>white</color> tables, and waitresses who looked first at 
         <line n="3"/>her and then at him; and there was a bill 
@@ -178,7 +205,8 @@
         <line n="13"/>where one had tea with other 
         <line n="14"/>people, like other people. 
     </page>
-    <page n="21" facs="">
+    <page n="21" facs="../docs/img/page21.jpg">
+        <description resp="#yxj">At the top, there is a long straight line. In the upper left corner, there is half a vase pattern, and two flowers stretch to the right from the mouth of the vase. Below the vase, we can see two straight lines with different length. On the right, there are two curves. At the bottom, there are two straight lines with the similar length but different thickness. </description>
         <line n="1"/>&quot;Come along, Trissie; it&apos;s time we had our 
         <line n="2"/>tea.&quot;
         <line n="3"/>&quot;Wherever does one have one&apos;s tea?" she 
@@ -191,7 +219,8 @@
         <line n="10"/>cranes among wild <nature type="plant">flowers</nature>, a Chinese <tech type="building">pagoda</tech> and 
         <line n="11"/>a<nature type="bird"> crimson-crested bird</nature>; but he bore her on. 
     </page>
-    <page n="22" facs="">
+    <page n="22" facs="../docs/img/page22.jpg">
+        <description resp="#yxj">At the top of the page, the picture looks like the roof of a pavilion. We can find a curvy path and three trees both on the left and on the right. At the bottom, there are some fences. </description>
         <line n="1"/>Thus one couple after another with much the same irregular 
         <line n="2"/>and aimless movement passed the flower-bed and 
         <line n="3"/>were enveloped in layer after layer of <color>green blue</color> 
@@ -212,7 +241,8 @@
         <line n="18"/>aeroplane the voice of the summer 
         <line n="19"/><nature type="sky">sky</nature> murmured its fierce soul. 
     </page>
-    <page n="23" facs="">
+    <page n="23" facs="../docs/img/page23.jpg">
+        <description resp="#yxj">At the top, there are many dots, which form a forest. There are some fallen leaves at the bottom left of the forest. A long straight is on the left. At the bottom, there are 6 similar unclear pattern.</description>
         <line n="1"/><color>Yellow</color> and <color>black</color>, <color>pink</color> and <color>snow white</color>, 
         <line n="2"/>shapes of all these colours, men, women and 
         <line n="3"/>children were spotted for a second upon the 
@@ -226,7 +256,8 @@
         <line n="11"/>from them as if they were flames lolling 
         <line n="12"/>from the thick waxen <nature type="human-body">bodies</nature> of candles. 
     </page>
-    <page n="24" facs="">
+    <page n="24" facs="../docs/img/page24.jpg">
+        <description resp="#yxj">At the top, there is a semicircular flowerbed. Two polylines interlaced are around left, right and bottom of the page. In the center of the bottom, two arcs break two polylines separately. Between the two arcs, there is a circle flower core.</description>
         <line n="1"/>Voices, yes, vioces, breaking the silence
         <line n="2"/>suddently with such depth of contentment, such passion
         <line n="3"/>of desire, or, in the voices of children, such freshness
