@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 
+<?xml-model href="../KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     
     <metadata>
@@ -108,7 +108,7 @@
     <page n="16" facs="../docs/img/page16.jpg">
         <description resp="#yxj">At the top, 15 short arcs form a long arc. One thick solid straight line is on the left, and one is on the right. Both they are broken by several petals. At the bottom, some curves and straight lines form the shape of the ground. A large flower and some petals break the sentences in the line 6-16.</description>
         <line n="1"/>The <nature type="human-body">ponderous</nature> woman looked through the pattern of falling 
-        <line n="2"/>words at the <nature type="plant">flowers</nature> standing cool, firm and upright 
+        <line n="2"/>words at the <nature type="plant">flower</nature>s standing cool, firm and upright 
         <line n="3"/>in the earth, with a curious expression. She saw them 
         <line n="4"/>as a sleeper waking from a heavy sleep sees a brass 
         <line n="5"/>candlestick reflecting the light in an unfamiliar way, and 
@@ -123,7 +123,7 @@
         <line n="14"/>over her, swaying the top part 
         <line n="15"/>of her <nature type="human-body">body</nature> slowly backwards 
         <line n="16"/>and forwards, looking at the 
-        <line n="17"/><nature type="plant">flowers</nature>. Then she suggested that 
+        <line n="17"/><nature type="plant">flower</nature>s. Then she suggested that 
         <line n="18"/>they should find a seat 
         <line n="19"/>and have their tea. 
     </page>
@@ -151,7 +151,7 @@
         <line n="1"/>They were both in the prime of youth, 
         <line n="2"/>or even in that season which precedes the prime 
         <line n="3"/>of youth, the season before the smooth <color>pink</color> folds 
-        <line n="4"/>of the <nature type="plant">flowers</nature> have burst their gummy case, when the 
+        <line n="4"/>of the <nature type="plant">flower</nature>s have burst their gummy case, when the 
         <line n="5"/>wings of the <nature type="insect">butterfly</nature>, though fully grown, are motionless 
         <line n="6"/>in the <nature type="sky">sun</nature>.
         <line n="7"/>&quot;Lucky it isn&apos;t Friday,&quot; he observed.
@@ -216,7 +216,7 @@
         <line n="7"/>her parasol, turning her <tech type="human-body">head</tech> this way and that 
         <line n="8"/>way, forgetting her tea, wishing to go down there 
         <line n="9"/>and then down there, remembering orchids and 
-        <line n="10"/>cranes among wild <nature type="plant">flowers</nature>, a Chinese <tech type="building">pagoda</tech> and 
+        <line n="10"/>cranes among wild <nature type="plant">flower</nature>s, a Chinese <tech type="building">pagoda</tech> and 
         <line n="11"/>a<nature type="bird"> crimson-crested bird</nature>; but he bore her on. 
     </page>
     <page n="22" facs="../docs/img/page22.jpg">
@@ -229,12 +229,12 @@
         <line n="6"/>colour dissolved in the <color>green-blue</color> and atmosphere. How 
         <line n="7"/>hot it was! So hot that even the thrush chose to 
         <line n="8"/>hop, like a mechanical <nature type="bird">bird</nature>, in the shadow of the 
-        <line n="9"/><nature type="plant">flowers</nature>, with long pauses between one movement and 
+        <line n="9"/><nature type="plant">flower</nature>s, with long pauses between one movement and 
         <line n="10"/>the next; instead of rambling vaguely the <color>white</color> 
         <line n="11"/><nature type="insect">butterflies</nature> danced one above another, making 
         <line n="12"/>with their <color>white</color> shifting flakes the outline of a 
         <line n="13"/>shattered marble column above the tallest 
-        <line n="14"/><nature type="nature">flowers</nature>; the glass roofs of the <tech type="building">palm house </tech>
+        <line n="14"/><nature type="nature">flower</nature>s; the glass roofs of the <tech type="building">palm house </tech>
         <line n="15"/>shone as if a whole market full 
         <line n="16"/>of shiny <color>green</color> umbrellas had opened 
         <line n="17"/>in the <nature type="sky">sun</nature>; and in the drone of the 
@@ -267,7 +267,7 @@
         <line n="7"/>nest of Chinese boxes all of wrought <tech type="parts">steel</tech> turning
         <line n="8"/>ceaselessly one within another the city murmured;
         <line n="9"/>on the top of which the voices cried aloud and 
-        <line n="10"/>the <nature type="plant">petals</nature> of myriads of <nature type="plant">flowers</nature> flashed their colours
+        <line n="10"/>the <nature type="plant">petals</nature> of myriads of <nature type="plant">flower</nature>s flashed their colours
         <line n="11"/>into the <nature type="sky">air</nature>.
     </page>
 </xml>
