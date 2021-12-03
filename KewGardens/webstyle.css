@@ -17,35 +17,26 @@ a:hover {color: DarkGoldenRod;}
 /* selected link */
 a:active {color: DarkSlateGray;}
 
+/*Table*/
+table {text-align:center;
+  border: 1px solid black;
+  
+}
 
-/* Menu */
-#menu
-{display: flex;
-flex-direction: row-reverse;}
+edition {text-align:center;}
 
+page {}
 
-/* Menu design */
-.design
-{max-width:250px;
-width:100%;}
-
-.designflip
-{max-width:250px;
-width:100%;}
-
-div.menuA {text-align: center; font-size: 2vw;
-display: block;
-border: 30px solid transparent;      border-image-source:url(images/GoldBoarder.png); 
-border-image-repeat: repeat;
-padding-top: 3vw;
-padding-bottom: 3vw;
-border-image-slice: 110;
-flex: 5;}
+description {}
 
 
-/* Center Text */
-.center
-{text-align: center;}
+nature {}
+
+tech {}
+
+color {}
+
+shape {}
 
 
 
