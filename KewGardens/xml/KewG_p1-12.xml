@@ -23,31 +23,30 @@
 
 
     <page n="1" facs="../docs/img/page1.jpg">
-        <description resp="edm">
-            Burnt maroon cover with a tan key-shape center with yellow squiggles with burnt maroon, and light bluish-grey speckling. The title font and information is the same thick typefaced font, almost like "Impact". 
-        </description>
+        <description resp="edm"> Burnt maroon cover with a tan key-shape center with yellow
+            squiggles with burnt maroon, and light bluish-grey speckling. The title font and
+            information is the same thick typefaced font, almost like "Impact". </description>
         <line n="1"/>KEW GARDENS<line n="2"/>BY<line n="3"/>VIRGINIA WOOLF<line n="4"
             />DECORATIONS<line n="5"/>BY<line n="6"/>VANESSA BELL<line n="7"/>THE<line n="8"
         />HOGARTH PRESS</page>
-    
+
     <page n="2" facs="../docs/img/page2.jpg">
-        <description resp="edm">
-            Off-white page with maroon dotting down the left-hand side. The writing on the page was the same burnt maroon as the cover. The font is in a more handwritten, storybook font. 
-        </description>
+        <description resp="edm"> Off-white page with maroon dotting down the left-hand side. The
+            writing on the page was the same burnt maroon as the cover. The font is in a more
+            handwritten, storybook font. </description>
         <line n="1"/>Kew Gardens <line n="2"/>by <line n="3"/>Virginia <line n="4"/>Woolf <line
             n="5"/>decorated by Vanessa Bell <line n="6"/>published by the Hogarth Press </page>
-    
+
     <page n="3" facs="../docs/img/page3.jpg">
-        <description resp="edm">
-            Plain off-white page with text centered and justified. 
-        </description>
+        <description resp="edm"> Plain off-white page with text centered and justified. </description>
         <line n="1"/>This edition, published in 1927, <line n="2"/>is limited to 500 numbered
         copies, <line n="3"/>of which this is number 150 </page>
-    
+
     <page n="4" facs="../docs/img/page4.jpg">
-        <description resp="edm">
-            Kew Gardens is written at the top in a handwritten, storybook font. it is the top part of the border decoration that takes up the margins as well as the bottom half of the page. The designs are flowers and leaves painting in a simplisting, scroll-y style with black ink.
-        </description>
+        <description resp="edm"> Kew Gardens is written at the top in a handwritten, storybook font.
+            it is the top part of the border decoration that takes up the margins as well as the
+            bottom half of the page. The designs are flowers and leaves painting in a simplisting,
+            scroll-y style with black ink. </description>
         <line n="1"/>From the <shape>oval-shaped</shape>
         <nature type="plant">flower-bed</nature> there rose <line n="2"/>perhaps a hundred <nature
             type="plant">stalks</nature> spreading into <line n="3"/><shape>heart-shaped</shape> or
@@ -59,11 +58,12 @@
         <line n="7"/>gloom of the throat emerged a straight bar, <line n="8"/>rough with
             <color>gold</color> dust and slightly <shape>clubbed</shape>
         <line n="9"/>at the end. </page>
-    
+
     <page n="5" facs="../docs/img/page5.jpg">
-        <description resp="edm">
-            At the top of the page, there is a painted arch. On the right, there is a bumpy design that falls to about mid-page. On the top left, there are two conifer-type flowers. Around the bottom-half of the page, there are similar swish-y designs with the bumpy design on the right. 
-        </description>
+        <description resp="edm"> At the top of the page, there is a painted arch. On the right,
+            there is a bumpy design that falls to about mid-page. On the top left, there are two
+            conifer-type flowers. Around the bottom-half of the page, there are similar swish-y
+            designs with the bumpy design on the right. </description>
         <line n="1"/>The <nature type="plant">petals</nature> were voluminous enough to be stirred
             <line n="2"/>by the <nature type="sky">summer breeze</nature>, and when they moved, the
             <line n="3"/><color>red</color>, <color>blue</color> and <color>yellow</color> lights
@@ -83,11 +83,12 @@
         />the vast <color>green</color> spaces beneath the dome of <line n="16"/>the
             <shape>heart-shaped</shape> and <shape>tongue-shaped</shape>
         <nature type="plant">leaves</nature>. </page>
-    
+
     <page n="6" facs="../docs/img/page6.jpg">
-        <description resp="edm">
-            An arch with broad swirls sits on the top margin. A line runs along the left and right margins. At the bottom, centered under the text, there are two flowers that seemingly come from the same origin. They sit upon large leaves that cast a thick shadow.
-        </description>
+        <description resp="edm"> An arch with broad swirls sits on the top margin. A line runs along
+            the left and right margins. At the bottom, centered under the text, there are two
+            flowers that seemingly come from the same origin. They sit upon large leaves that cast a
+            thick shadow. </description>
         <line n="1"/>Then the <nature type="sky">breeze</nature> stirred rather more briskly
         overhead <line n="2"/>and the colour was flashed into the air above, into <line n="3"/>the
         eyes of the men and women who walk in <nature type="plant">Kew <line n="4"/>Gardens</nature>
@@ -101,11 +102,10 @@
             >head</nature> now and then to see that the children were <line n="12"/>not too far
         behind. The man kept this distance in front <line n="13"/>of the woman purposely, though
         perhaps unconsciously, <line n="14"/>for he wished to go on with his thoughts. </page>
-    
+
     <page n="7" facs="../docs/img/page7.jpg">
-        <description resp="edm">
-            Going from the top right, moving oounter-clockwise and ending at the bottom right, there is a bouncy swirly design that ends in a rose-shaped flower.
-        </description>
+        <description resp="edm"> Going from the top right, moving oounter-clockwise and ending at
+            the bottom right, there is a bouncy swirly design that ends in a rose-shaped flower. </description>
         <line n="1"/>"Fifteen years ago I came here with <line n="2"/>Lily," he thought. "We sat
         somewhere over <line n="3"/>there by a <nature type="ground">lake</nature> and I begged her
         to marry me <line n="4"/>all through the hot afternoon. How the <nature type="animal"
@@ -125,9 +125,9 @@
 
 
     <page n="8" facs="../docs/img/page8.jpg">
-        <description resp="edm">
-            Along the left margin, there is a tree, with a branch that cuts across the top margin. One third of the way down the page, there is another tree branch sprouting from the text. At the very bottom of the page are three thick black lines.
-        </description>
+        <description resp="edm"> Along the left margin, there is a tree, with a branch that cuts
+            across the top margin. One third of the way down the page, there is another tree branch
+            sprouting from the text. At the very bottom of the page are three thick black lines. </description>
         <line n="1"/>But the <nature type="animal">dragon-fly</nature> went round and round: it
             <line n="2"/>never settled anywhere—of course not, happily <line n="3"/>not, or I
         shouldn't be walking here with Eleanor <line n="4"/>and the children—Tell me, Eleanor. D'you
@@ -136,17 +136,19 @@
         woman I might <line n="9"/>have married.... Well, why are you silent? Do <line n="10"/>you
         mind my thinking of the past?" <line n="11"/>"Why should I mind, Simon? Doesn't one always
             <line n="12"/>think of the past, in a <nature type="plant">garden</nature> with men and
-            <line n="13"/>women lying under the <nature type="plant">tree</nature>s? Aren't they
+            <line n="13"/>women lying under the <nature type="plant">trees</nature>? Aren't they
         one's <line n="14"/>past, all that remains of it, those men and women, <line n="15"/>those
-        ghosts lying under the <nature type="plant">tree</nature>s,... one's happiness, <line n="16"
+        ghosts lying under the <nature type="plant">trees</nature>,... one's happiness, <line n="16"
         />one's reality?" <line n="17"/>"For me, a square <color>silver</color>
         <tech type="cloth">shoe buckle</tech> and a <line n="18"/><nature type="animal"
             >dragon-fly</nature>—" </page>
 
     <page n="9" facs="../docs/img/page9.jpg">
-        <description resp="edm">
-            The top of the page has simplistic rope-braid like patterns that somewhat connects to the side margin patterns. The side margin patterns are two loose swiggle lines. Around the bottom half of the page another squiggle line joins the three, then travels down and under the under margin patterns. The bottom area has big curly loops nesting black dots between it and the text.
-        </description>
+        <description resp="edm"> The top of the page has simplistic rope-braid like patterns that
+            somewhat connects to the side margin patterns. The side margin patterns are two loose
+            swiggle lines. Around the bottom half of the page another squiggle line joins the three,
+            then travels down and under the under margin patterns. The bottom area has big curly
+            loops nesting black dots between it and the text. </description>
         <line n="1"/>"For me, a kiss. Imagine six little girls sitting <line n="2"/>before their
             <tech type="parts">easels</tech> twenty years ago, down by <line n="3"/>the side of a
             <nature type="ground">lake</nature>, painting the <nature type="plant"
@@ -162,30 +164,56 @@
         the mother of all my <line n="13"/>kisses all my life. Come, Caroline, come, <line n="14"
         />Hubert. <line n="15"/>"They walked on past the <nature type="plant">flower-bed</nature>,
         now <line n="16"/>walking four abreast, and soon diminished in <line n="17"/>size among the
-            <nature type="plant">tree</nature>s and looked half <color>trans- <line n="18"
+            <nature type="plant">trees</nature> and looked half <color>trans- <line n="18"
             />parent</color> as the <nature type="sky">sunlight</nature> and shade swam over their
             <line n="19"/>backs in large trembling irregular patches. </page>
-    
+
     <page n="10" facs="../docs/img/page10.jpg">
-        <description resp="edm">
-            Wildly sprouting leaves come from the bottom of the page, and climbs up the margins. At the top, there are trumpet-flower-like designs.
-        </description>
-        <line n="1"/>In the oval <nature type="plant">flower bed</nature> the snail, whose shell<line n="2"/>had been stained red,
-        blue, and yellow for the<line n="3"/>space of two minutes or so, now appeared to<line n="4"
-        />be moving very slightly in its shell, and next<line n="5"/>began to labour over the crumbs
-        of loose<line n="6"/>earth which broke away and rolled down<line n="7"/>as it passed over
-        them. It appeared to<line n="8"/>have a definite goal in front of it, differing <line n="9"
-        />in this respect from the singular high stepping <line n="10"/>angular green insect who
-        attempted to cross <line n="11"/>in front of it, and waited for a second with<line n="12"
-        />its antennæ trembling as if in deliberation, <line n="13"/>and then stepped off as rapidly
-        and strangely<line n="14"/>in the opposite direction.</page>
+        <description resp="edm"> Wildly sprouting leaves come from the bottom of the page, and
+            climbs up the margins. At the top, there are trumpet-flower-like designs. </description>
+        <line n="1"/>In the <shape>oval</shape>
+        <nature type="plant">flower bed</nature> the <nature type="animal">snail</nature>, whose
+            shell<line n="2"/>had been stained <color>red</color>, <color>blue</color>, and
+            <color>yellow</color> for the<line n="3"/>space of two minutes or so, now appeared
+            to<line n="4"/>be moving very slightly in its shell, and next<line n="5"/>began to
+        labour over the <nature type="ground">crumbs of loose<line n="6"/>earth</nature> which broke
+        away and rolled down<line n="7"/>as it passed over them. It appeared to<line n="8"/>have a
+        definite goal in front of it, differing <line n="9"/>in this respect from the singular high
+        stepping <line n="10"/>angular green <nature type="animal">insect</nature> who attempted to
+        cross <line n="11"/>in front of it, and waited for a second with<line n="12"/>its antennæ
+        trembling as if in deliberation, <line n="13"/>and then stepped off as rapidly and
+            strangely<line n="14"/>in the opposite direction.</page>
     <page n="11" facs="../docs/img/page11.jpg">
-        <description resp="edm">
-            Tall reed-like plants sprout from the bottom left corner, and end in curly lines that have straight shading lines above them to convey petals. The reed plants bend at the top margin and curve over the text. On the right side, there is another reed plant that simply climbs the right margin side and blooms at the top. 
-        </description>
-        <line n="1"/>Brown cliffs with deep green lakes<line n="2"/>in the hollows, flat, blade-like trees<line n="3"/>that
-        waved from root to tip, round boulders<line n="4"/>of grey stone, vast crumpled surfaces of a<line n="5"/>thin
-        crackling texture—all these objects lay<line n="6"/>across the snail's progress between one stalk<line n="7"/>and
-        another to his goal. Before he had<line n="8"/>decided whether to circumvent the arched<line n="9"/>tent of a dead
-        leaf or to breast it there<line n="10"/>came past the bed the feet of other human<line n="11"/>beings.</page>
+        <description resp="edm"> Tall reed-like plants sprout from the bottom left corner, and end
+            in curly lines that have straight shading lines above them to convey petals. The reed
+            plants bend at the top margin and curve over the text. On the right side, there is
+            another reed plant that simply climbs the right margin side and blooms at the top. </description>
+        <line n="1"/><color>Brown</color>
+        <nature type="ground">cliffs</nature> with deep <color>green</color>
+        <nature type="ground">lakes</nature><line n="2"/>in the hollows, flat, blade-like <nature
+            type="plant">trees</nature><line n="3"/>that waved from <nature type="plant"
+            >root</nature> to tip, round <nature type="ground">boulders</nature><line n="4"/>of
+            <color>grey</color>
+        <nature type="ground">stone</nature>, vast crumpled surfaces of a<line n="5"/>thin crackling
+        texture—all these objects lay<line n="6"/>across the <nature type="animal">snail's</nature>
+        progress between one stalk<line n="7"/>and another to his goal. Before he had<line n="8"
+        />decided whether to circumvent the arched<line n="9"/>tent of a <nature type="plant">dead
+            leaf</nature> or to breast it there<line n="10"/>came past the bed the feet of other
+            human<line n="11"/>beings.</page>
+    <page n="12" facs="../docs/img/page12.jpg">
+        <description resp=""/>
+        <line n="1"/>This time they were both men. The<line n="2"/>younger of the two wore an
+            expression<line n="3"/>of perhaps unnatural calm; he raised his<line n="4"/><nature
+            type="human-body">eyes</nature> and fixed them very steadily in front<line n="5"/>of him
+        while his companion spoke, and<line n="6"/>directly his companion had done speaking<line
+            n="7"/>he looked on the <nature type="ground">ground</nature> again and some-<line n="8"
+        />times opened his <nature type="human-body">lips</nature> only after a long pause<line
+            n="9"/>and sometimes did not open them at all.<line n="10"/>The elder man had a
+        curiously uneven and<line n="11"/>shaky method of walking, jerking his hand<line n="12"
+        />forward and throwing up his <nature type="human-body">head</nature> abruptly,<line n="13"
+        />rather in the manner of an impatient carriage<line n="14"/><nature type="animal"
+            >horse</nature> tired of waiting outside a <tech type="building">house</tech>; but<line
+            n="15"/>in the man these gestures were irresolute and<line n="16"/>pointless. He talked
+        almost incessantly; he<line n="17"/>smiled to himself and again began to talk,<line n="18"
+        />as if the smile had been an answer. </page>
 </xml>
