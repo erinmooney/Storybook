@@ -1,11 +1,9 @@
 /* Base */
 body {
 background-color: AntiqueWhite;
-color: DarkSlateGray;
-font-family: arial, helvetica, sans-serif;
-}
-ol {list-style-type: lower-alpha;
-padding: 5em;}
+color: Black;
+font-family: arial, helvetica, sans-serif;}
+
 
 
 /* unvisited link */
@@ -17,34 +15,56 @@ a:hover {color: DarkGoldenRod;}
 /* selected link */
 a:active {color: DarkSlateGray;}
 
+
 /*Table*/
 table {text-align:center;
   border: 1px solid black;
-  
+
+  column-count: 4;
+  column-gap: 5px;
+  column-rule-style: solid;
+  column-rule: 1px double;
+  margin: 10px;
 }
 
-title {text-align:center;
+
+/* Title */
+h1 {text-align:center;
 display: block;
-}
 
-metadata {text-align:justify;
-align-items: center;
-}
-
-edition {text-align:center;}
-
-page {}
-
-description {}
+border: 30px solid transparent;      
+border-image-source:url(web_html_images/GoldBoarder.png); 
+border-image-repeat: repeat;
+padding-top: 3vw;
+padding-bottom: 3vw;
+border-image-slice: 110;
+flex: 5;}
 
 
-nature {}
 
-tech {}
+.source {text-align: justify;
+align-items: center;}
 
-color {}
+.edition {text-align: justify;
+align-items: center;}
 
-shape {}
+
+
+
+
+
+/* Span */
+.page {color: DarkGoldenrod;}
+
+.desc {color: Maroon;}
+
+.nature {color: ForestGreen;}
+
+.tech {color: LightSlateGray;}
+
+.color {color: RebeccaPurple;}
+
+.shape {color: CadetBlue;}
 
 
 
