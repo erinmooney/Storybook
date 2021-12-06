@@ -25,7 +25,7 @@
             </td>
             <td>
               
-              <xsl:value-of select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')=current()])"/>
+              <xsl:value-of select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')=current()])"/>
               <!-- <xsl:value-of select="count($KG//*[.!lower-case(.)!substring(.,1,3)=current()!substring(.,1,3)])"/> -->
             </td>
           </tr>
@@ -34,7 +34,6 @@
       </table>
       
     </xsl:for-each>
-    
   </xsl:function>
   <xsl:template match="/">
     
@@ -67,8 +66,6 @@
       </body>
     </html>
     </xsl:template>
-    
-
   
   <xsl:template match="metadata">
     <h1><xsl:apply-templates select="descendant::title"/></h1>
@@ -89,24 +86,39 @@
   
   <xsl:template match="edition">
     <xsl:for-each select="*">
-      <ul><xsl:value-of select="local-name()"/>: <xsl:value-of select="@xml:id" /><xsl:value-of select="."/></ul>
+      <ul><xsl:value-of select="local-name()"/>: <xsl:value-of select="@xml:id" />
+        <xsl:value-of select="."/>
+      </ul>
     </xsl:for-each> 
     <br/>
   </xsl:template>
   
   <xsl:template match="page">
-    <p pageNum="{@n}">
+    <div class="page-{@n}">
+    <div class="desc">
       <small><xsl:value-of select="@n"/></small>
+      <xsl:apply-templates select="description" mode = "move"/>
+    </div>
+      
+    <div pageNum="{@n}">
       <xsl:apply-templates/>
-    </p>
+    </div>
+    </div>
   </xsl:template>
   
-  <xsl:template match="description">
+  <xsl:template match="line">
+    <br class="line"/>
+    <!-- <xsl:apply-templates select="following-sibling::node()"/> -->
+  </xsl:template>
+  
+  <xsl:template match="description" mode="move">
     <span class="desc"><i><xsl:apply-templates/>——
       <xsl:value-of select="@resp"/></i></span>
-    <br/>
   </xsl:template>
   
+  <xsl:template match="description"/>
+  
+
   <xsl:template match="nature">
     <span class="nature">
       <xsl:apply-templates/>
@@ -130,5 +142,5 @@
       <xsl:apply-templates/>
     </span>
   </xsl:template>
-  
+
 </xsl:stylesheet>
