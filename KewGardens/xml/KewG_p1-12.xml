@@ -23,7 +23,7 @@
 
 
     <page n="1" facs="../docs/img/page1.jpg">
-        <description resp="edm"> Burnt maroon cover with a tan key-shape center with yellow
+        <description resp="#edm"> Burnt maroon cover with a tan key-shape center with yellow
             squiggles with burnt maroon, and light bluish-grey speckling. The title font and
             information is the same thick typefaced font, almost like "Impact". </description>
         <line n="1"/>KEW GARDENS<line n="2"/>BY<line n="3"/>VIRGINIA WOOLF<line n="4"
@@ -31,19 +31,19 @@
         />HOGARTH PRESS</page>
 
     <page n="2" facs="../docs/img/page2.jpg">
-        <description resp="edm"> Off-white page with maroon dotting down the left-hand side. The
+        <description resp="#edm"> Off-white page with maroon dotting down the left-hand side. The
             writing on the page was the same burnt maroon as the cover. The font is in a more
             handwritten, storybook font. </description>
         <line n="1"/>Kew Gardens <line n="2"/>by <line n="3"/>Virginia <line n="4"/>Woolf <line
             n="5"/>decorated by Vanessa Bell <line n="6"/>published by the Hogarth Press </page>
 
     <page n="3" facs="../docs/img/page3.jpg">
-        <description resp="edm"> Plain off-white page with text centered and justified. </description>
+        <description resp="#edm"> Plain off-white page with text centered and justified. </description>
         <line n="1"/>This edition, published in 1927, <line n="2"/>is limited to 500 numbered
         copies, <line n="3"/>of which this is number 150 </page>
 
     <page n="4" facs="../docs/img/page4.jpg">
-        <description resp="edm"> Kew Gardens is written at the top in a handwritten, storybook font.
+        <description resp="#edm"> Kew Gardens is written at the top in a handwritten, storybook font.
             it is the top part of the border decoration that takes up the margins as well as the
             bottom half of the page. The designs are flowers and leaves painting in a simplisting,
             scroll-y style with black ink. </description>
@@ -60,7 +60,7 @@
         <line n="9"/>at the end. </page>
 
     <page n="5" facs="../docs/img/page5.jpg">
-        <description resp="edm"> At the top of the page, there is a painted arch. On the right,
+        <description resp="#edm"> At the top of the page, there is a painted arch. On the right,
             there is a bumpy design that falls to about mid-page. On the top left, there are two
             conifer-type flowers. Around the bottom-half of the page, there are similar swish-y
             designs with the bumpy design on the right. </description>
@@ -85,7 +85,7 @@
         <nature type="plant">leaves</nature>. </page>
 
     <page n="6" facs="../docs/img/page6.jpg">
-        <description resp="edm"> An arch with broad swirls sits on the top margin. A line runs along
+        <description resp="#edm"> An arch with broad swirls sits on the top margin. A line runs along
             the left and right margins. At the bottom, centered under the text, there are two
             flowers that seemingly come from the same origin. They sit upon large leaves that cast a
             thick shadow. </description>
@@ -104,7 +104,7 @@
         perhaps unconsciously, <line n="14"/>for he wished to go on with his thoughts. </page>
 
     <page n="7" facs="../docs/img/page7.jpg">
-        <description resp="edm"> Going from the top right, moving oounter-clockwise and ending at
+        <description resp="#edm"> Going from the top right, moving oounter-clockwise and ending at
             the bottom right, there is a bouncy swirly design that ends in a rose-shaped flower. </description>
         <line n="1"/>"Fifteen years ago I came here with <line n="2"/>Lily," he thought. "We sat
         somewhere over <line n="3"/>there by a <nature type="ground">lake</nature> and I begged her
@@ -125,7 +125,7 @@
 
 
     <page n="8" facs="../docs/img/page8.jpg">
-        <description resp="edm"> Along the left margin, there is a tree, with a branch that cuts
+        <description resp="#edm"> Along the left margin, there is a tree, with a branch that cuts
             across the top margin. One third of the way down the page, there is another tree branch
             sprouting from the text. At the very bottom of the page are three thick black lines. </description>
         <line n="1"/>But the <nature type="animal">dragon-fly</nature> went round and round: it
@@ -144,7 +144,7 @@
             >dragon-fly</nature>—" </page>
 
     <page n="9" facs="../docs/img/page9.jpg">
-        <description resp="edm"> The top of the page has simplistic rope-braid like patterns that
+        <description resp="#edm"> The top of the page has simplistic rope-braid like patterns that
             somewhat connects to the side margin patterns. The side margin patterns are two loose
             swiggle lines. Around the bottom half of the page another squiggle line joins the three,
             then travels down and under the under margin patterns. The bottom area has big curly
@@ -169,7 +169,7 @@
             <line n="19"/>backs in large trembling irregular patches. </page>
 
     <page n="10" facs="../docs/img/page10.jpg">
-        <description resp="edm"> Wildly sprouting leaves come from the bottom of the page, and
+        <description resp="#edm"> Wildly sprouting leaves come from the bottom of the page, and
             climbs up the margins. At the top, there are trumpet-flower-like designs. </description>
         <line n="1"/>In the <shape>oval</shape>
         <nature type="plant">flower bed</nature> the <nature type="animal">snail</nature>, whose
@@ -184,7 +184,7 @@
         trembling as if in deliberation, <line n="13"/>and then stepped off as rapidly and
             strangely<line n="14"/>in the opposite direction.</page>
     <page n="11" facs="../docs/img/page11.jpg">
-        <description resp="edm"> Tall reed-like plants sprout from the bottom left corner, and end
+        <description resp="#edm"> Tall reed-like plants sprout from the bottom left corner, and end
             in curly lines that have straight shading lines above them to convey petals. The reed
             plants bend at the top margin and curve over the text. On the right side, there is
             another reed plant that simply climbs the right margin side and blooms at the top. </description>
@@ -201,7 +201,7 @@
             leaf</nature> or to breast it there<line n="10"/>came past the bed the feet of other
             human<line n="11"/>beings.</page>
     <page n="12" facs="../docs/img/page12.jpg">
-        <description resp=""/>
+        <description resp="#edm"></description>
         <line n="1"/>This time they were both men. The<line n="2"/>younger of the two wore an
             expression<line n="3"/>of perhaps unnatural calm; he raised his<line n="4"/><nature
             type="human-body">eyes</nature> and fixed them very steadily in front<line n="5"/>of him
