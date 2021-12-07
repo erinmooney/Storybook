@@ -1,4 +1,5 @@
-<?xml-model href="KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../KewG_relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <metadata>
         <source>
@@ -110,10 +111,10 @@
         somewhere over <line n="3"/>there by a <nature type="ground">lake</nature> and I begged her
         to marry me <line n="4"/>all through the hot afternoon. How the <nature type="animal"
             >dragon- <line n="5"/>fly</nature> kept circling round us: how clearly I see <line n="6"
-        />the <nature type="animal">dragon-fly</nature> and her shoe with the <shape>square</shape>
+        />the <nature type="animal">dragon-fly</nature> and her <tech type="cloth">shoe</tech> with the <shape>square</shape>
         <line n="7"/><color>silver</color>
         <tech type="cloth">buckle</tech> at the toe. All the time I spoke <line n="8"/>I saw her
-        shoe and when it moved impatiently <line n="9"/>I knew without looking up what she was going
+        <tech type="cloth">shoe</tech> and when it moved impatiently <line n="9"/>I knew without looking up what she was going
             <line n="10"/>to say: the whole of her seemed to be in her <tech type="cloth"
             >shoe</tech>. <line n="11"/>And my love, my desire, were in the <nature type="animal"
             >dragon-fly</nature>; <line n="12"/>for some reason I thought that if it settled <line

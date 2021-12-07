@@ -18,15 +18,15 @@
           <th><xsl:value-of select="current()"/></th>
           <th><xsl:text>count</xsl:text></th>
         </tr> 
-        <xsl:for-each select="$KG//page/*[./name()=current()]!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')=>distinct-values()">
-          <xsl:sort select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')=current()])" order="descending"/>
+        <xsl:for-each select="$KG//page/*[./name()=current()]!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')!replace(.,'ies','y')=>distinct-values()">
+          <xsl:sort select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')!replace(.,'ies','y')=current()])" order="descending"/>
           
           <tr>
             <td>
-              <xsl:value-of select="string-join($KG//page/*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')=current()] => distinct-values(), ', ')"/>
+              <xsl:value-of select="string-join($KG//page/*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')!replace(.,'ies','y')=current()] => distinct-values(), ', ')"/>
             </td>
             <td>
-              <xsl:value-of select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')=current()])"/>
+              <xsl:value-of select="count($KG//*[.!lower-case(.)! normalize-space()!replace(.,'[- ]','')!replace(.,'ves','f')!replace(.,'shaped','')!replace(.,'ies','y')=current()])"/>
               <!-- <xsl:value-of select="count($KG//*[.!lower-case(.)!substring(.,1,3)=current()!substring(.,1,3)])"/> -->
             </td>
           </tr>
