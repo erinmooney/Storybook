@@ -68,3 +68,38 @@ align-items: center;}
 
 
 
+/* PAGES */
+.edition {display: block;
+background-image: url(img/edited/page4.png);
+height: 40%;
+background-position: center;
+background-size: cover;
+position: absolute;
+  z-index: -1;
+display:flex;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
