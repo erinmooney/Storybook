@@ -120,7 +120,7 @@
   </xsl:template>
   
   <xsl:template match="line">
-    <br class="line"/>
+    <br class="line" id="line-{@n}"/>
     <!-- <xsl:apply-templates select="following-sibling::node()"/> -->
   </xsl:template>
   
