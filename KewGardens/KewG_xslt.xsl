@@ -80,28 +80,31 @@
   </xsl:template>
     
   <xsl:template match="source">
+    <h2><xsl:value-of select="name()"/></h2>
     <ul><xsl:for-each select="*[not(self::title)and not(self::sourceLink)]">
       <li><xsl:value-of select="name()"/>: <xsl:value-of select="current()"/></li>
     </xsl:for-each> 
+      <li><xsl:value-of select="sourceLink ! name()"/>: 
+        <xsl:apply-templates select="sourceLink"/>
+      </li>
     </ul>
   </xsl:template>
   
   <xsl:template match="edition">
-    <xsl:for-each select="*">
-      <ul><xsl:value-of select="local-name()"/>: <xsl:value-of select="@xml:id" />
+    <h2><xsl:value-of select="name()"/></h2>
+    <ul><xsl:for-each select="*">
+      <li><xsl:value-of select="local-name()"/>: <xsl:value-of select="@xml:id" />
         <xsl:value-of select="."/>
-      </ul>
-    </xsl:for-each> 
+      </li>
+    </xsl:for-each> </ul>
     <br/>
   </xsl:template>
   
-<xsl:template match="sourceLink">
-    <li><xsl:value-of select="local-name()"/>: 
-      <a href="{current()}">
-        Kew Gardens by Virginia Woolf, 1927
-      </a>
-    </li>
-</xsl:template>  
+  <xsl:template match="sourceLink">
+    <a href="{current()}">
+      Kew Gardens by Virginia Woolf, 1927
+    </a>
+  </xsl:template>
 
   <xsl:template match="page">
     <div class="page" id="page-{@n}">
