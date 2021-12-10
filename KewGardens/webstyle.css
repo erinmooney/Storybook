@@ -107,8 +107,8 @@ align-content: center;}
  
  div#page-4 > div.vwoolf 
  {
- padding-top:100px;
- padding-bottom:1000px;
+ padding-top:200px;
+ padding-bottom:1050px;
       
  }
  
@@ -128,10 +128,14 @@ opacity:.35;
       right: 0px;
       bottom: 0px;
       left: 0px;
-  
-  
 }
 
+ div#page-5 > div.vwoolf 
+ {
+ padding-top:200px;
+ padding-bottom:700px;
+      
+ }
  div#page-5 > div.vwoolf::before {
 content: "";
 background-image: url(img/edited/page5.png);
@@ -142,34 +146,446 @@ border-style: none;
 background-repeat: no-repeat;*/
 z-index:-1;
 opacity:.35;
-      position: absolute;
-      top: 0px;
+       position: absolute;
+      top: -100px;
       right: 0px;
       bottom: 0px;
       left: 0px;
-  
 }
 
+ div#page-6 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:800px;
+      
+ }
+ div#page-6 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page6.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-7 > div.vwoolf 
+ {
+ padding-top:300px;
+ padding-bottom:800px;
+      
+ }
+ div#page-7 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page7.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-8 > div.vwoolf 
+ {
+ padding-top:300px;
+ padding-bottom:600px;
+      
+ }
+ div#page-8 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page8.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+      position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-9 > div.vwoolf 
+ {
+ padding-top:200px;
+ padding-bottom:800px;
+      
+ }
+ div#page-9 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page9.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-10 > div.vwoolf 
+ {
+ padding-top:450px;
+ padding-bottom:700px;
+      
+ }
+ div#page-10 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page10.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-11 > div.vwoolf 
+ {
+ padding-top:500px;
+ padding-bottom:800px;
+      
+ }
+ div#page-11 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page11.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+      position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-12 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:400px;
+      
+ }
+ div#page-12 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page12.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-13 > div.vwoolf 
+ {
+ padding-top:300px;
+ padding-bottom:600px;
+      
+ }
+ div#page-13 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page13.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-14 > div.vwoolf 
+ {
+ padding-top:250px;
+ padding-bottom:400px;
+      
+ }
+ div#page-14 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page14.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-15 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:300px;
+      
+ }
+ div#page-15 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page15.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-16 > div.vwoolf 
+ {
+ padding-top:200px;
+ padding-bottom:700px;
+      
+ }
+ div#page-16 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page16.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-17 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:500px;
+      
+ }
+ div#page-17 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page17.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-18 > div.vwoolf 
+ {
+ padding-top:300px;
+ padding-bottom:500px;
+      
+ }
+ div#page-18 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page18.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-19 > div.vwoolf 
+ {
+ padding-top:200px;
+ padding-bottom:600px;
+      
+ }
+ div#page-19 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page19.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-20 > div.vwoolf 
+ {
+ padding-top:300px;
+ padding-bottom:750px;
+      
+ }
+ div#page-20 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page20.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-21 > div.vwoolf 
+ {
+ padding-top:600px;
+ padding-bottom:600px;
+      
+ }
+ div#page-21 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page21.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-22 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:400px;
+      
+ }
+ div#page-22 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page22.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
+ div#page-23 > div.vwoolf 
+ {
+ padding-top:400px;
+ padding-bottom:700px;
+      
+ }
+ div#page-23 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page23.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
 
-
-
-
-
-
+ div#page-24 > div.vwoolf 
+ {
+ padding-top:575px;
+ padding-bottom:650px;
+      
+ }
+ div#page-24 > div.vwoolf::before {
+content: "";
+background-image: url(img/edited/page24.png);
+background-size: cover;
+/*background-position: top;
+ 
+border-style: none;
+background-repeat: no-repeat;*/
+z-index:-1;
+opacity:.35;
+       position: absolute;
+      top: -100px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+}
