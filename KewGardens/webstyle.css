@@ -71,18 +71,21 @@ align-items: center;}
 
 
 /* PAGES */
-div.page {display: block;
+div.page {
 background-image: url(img/edited/page4.png);
-height: 40%;
+
 background-position: center;
-position: absolute;
+background-size: cover;
   z-index: -1;
 display:flex;
 
 }
 
 /*  object-fit: contain;
- * width: 100%; */
+ * width: 100%; 
+ * display: block;
+ * height: 100%;
+ * */
 
 
 
