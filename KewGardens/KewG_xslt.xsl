@@ -70,13 +70,13 @@
   
   <xsl:template match="metadata">
     <h1><xsl:apply-templates select="descendant::title"/></h1>
-    <span class="source">
+    <div class="source">
       <xsl:apply-templates select="child::source"/>
-    </span>
+    </div>
     <br/>
-    <span class="edition">
+    <div class="edition">
       <xsl:apply-templates select="child::edition"/>
-    </span>
+    </div>
   </xsl:template>
     
   <xsl:template match="source">
@@ -113,14 +113,15 @@
       <xsl:apply-templates select="description" mode = "move"/>
     </div>
       
-    <div pageNum="{@n}">
+    <div class="vwoolf">
+      <span class="pageNum"><xsl:value-of select="@n"/></span>
       <xsl:apply-templates/>
     </div>
     </div>
   </xsl:template>
   
   <xsl:template match="line">
-    <br class="line" id="line-{@n}"/>
+    <br class="line" id="pg-{ancestor::page/@n}-line-{@n}"/>
     <!-- <xsl:apply-templates select="following-sibling::node()"/> -->
   </xsl:template>
   
