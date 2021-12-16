@@ -58,7 +58,10 @@ padding-bottom: 3vw;
 border-image-slice: 110;
 flex: 5;}
 
-
+img {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;}
 
 
 
