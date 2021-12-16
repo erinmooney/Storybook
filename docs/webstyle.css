@@ -1,18 +1,75 @@
 /* Base */
 body {
-background-color: AntiqueWhite;
+background-color: Moccasin;
 color: Black;
 font-family: arial, helvetica, sans-serif;
 cursor: url('web_html_images/pointer.ico'), default;}
 
+#menu
+{
+display: flex; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+/* Menu */
+/*#menu
+{display: flex;
+flex-direction: row-reverse;
+flex: 1;}*/
+
+/* Menu design */
+/*div.wrap
+{max-width:250px;
+width:100%;
+}*/
+
+/*div.menuA {text-align: center; font-size: 2.75vw;
+display: block;
+border: 30px solid transparent; 
+
+padding-top: 3vw;
+padding-bottom: 3vw;
+border-image-slice: 110;
+flex: 5;}*/
+
+
+/* Menu */
+#menu
+{display: flex;
+flex-direction: row-reverse;
+background-color: Maroon;
+color: Goldenrod;
+}
+
+/* Menu design */
+.design
+{max-width:250px;
+width:100%;}
+
+div.menuA {text-align: center; font-size: 2vw;
+display: block;
+border: 30px solid transparent;      border-image-source:url(images/GoldBoarder.png); 
+border-image-repeat: repeat;
+padding-top: 3vw;
+padding-bottom: 3vw;
+border-image-slice: 110;
+flex: 5;}
+
+
+
+
+
 
 
 /* unvisited link */
-a:link {color: DarkSlateGray;}
+a:link {color: DarkGoldenrod;}
 /* visited link */
-a:visited {color: DarkSlateGray;}
+a:visited {color: DarkGoldenrod;}
 /* mouse over link */
-a:hover {color: DarkGoldenRod;}
+a:hover {color: DarkSlateGray;}
 /* selected link */
 a:active {color: DarkSlateGray;}
 
