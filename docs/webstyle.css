@@ -3,7 +3,9 @@ body {
 background-color: AntiqueWhite;
 color: Black;
 font-family: arial, helvetica, sans-serif;
-cursor: url('web_html_images/pointer.ico'), default;}
+cursor: url('web_html_images/pointer.ico'), default;
+cursor: url('web_html_images/pointer.ico'), auto;}
+
 
 
 
