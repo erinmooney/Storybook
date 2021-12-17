@@ -13,9 +13,8 @@
             <sourceLink/>
         </source>
         <edition>
-            <editor>avr</editor>
-            <consultant>ebb</consultant>
-            <review>edm</review>
+            <editor xml:id="avr edm"></editor>
+            <consultant xml:id="ebb"></consultant>
             <place>Penn State Behrend</place>
             <date>2021</date>
             <license>Public Domain</license>
