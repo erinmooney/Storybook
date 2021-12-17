@@ -66,7 +66,20 @@ img {display: block;
   width: 25%;}
 
 
+h2 {text-align: center;
+color:black;
+line-height:2em;}
 
+
+p {text-align: center;
+box-sizing: border-box;
+  width: 50%;
+  margin: auto;
+  border: 5px transparent;
+  color:black;
+font-size:15pt;
+line-height:30px;
+}
 
 
 /* unvisited link */
@@ -83,11 +96,14 @@ a:active {color: DarkSlateGray;}
 table {text-align:center;
   border: 1px solid black;
 
+margin: auto;
+  width: 25%;
+  padding: 10px;
+
   column-count: 4;
   column-gap: 5px;
   column-rule-style: solid;
   column-rule: 1px double;
-  margin: 10px;
 }
 
 /* try using a grid */
