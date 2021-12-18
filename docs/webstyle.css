@@ -66,20 +66,6 @@ img {display: block;
   width: 25%;}
 
 
-h2 {text-align: center;
-color:black;
-line-height:2em;}
-
-
-p {text-align: center;
-box-sizing: border-box;
-  width: 50%;
-  margin: auto;
-  border: 5px transparent;
-  color:black;
-font-size:15pt;
-line-height:30px;
-}
 
 
 /* unvisited link */
@@ -121,6 +107,22 @@ padding-bottom: 3vw;
 border-image-slice: 110;
 flex: 5;}
 
+h2 {text-align: center;
+color:black;
+line-height:2em;}
+
+
+
+
+p {text-align: center;
+box-sizing: border-box;
+  width: 50%;
+  margin: auto;
+  border: 5px transparent;
+  color:black;
+font-size:15pt;
+line-height:30px;
+}
 
 
 .metadata {text-align: justify;
