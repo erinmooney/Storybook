@@ -22,7 +22,7 @@ Yuying was absolutely uncompromising in her dedication to the XSLT for this proj
 
 I wonder if a next step with that table might be to convert it into a linked index, to provide links to each mention of the colors, shapes, nature and technology you coded? That would take a *little more* adjustment to your XSLT, but I suspect this would be fun for you to implement. Let's discuss this more if you like.  
 
-### Images, HTML and CSS
+### Images, HTML, and CSS
 Thanks to Aidan's work with curating the photo facsimile page images from the British Library source, Erin was able to work some magic in image processing to convert these into images with transparent backgrounds. Erin's idea to layer these behind the text for each page on the site was pure design genius, and relied in part on the impressive document structure your team worked out for this project to organize it page by page. You shared a *theory* of this text as page-based, so that layout was fundamental to the reading experience, and the carefully crafted CSS for your website does a wonderful job of delivering your theory to us in a way that really makes this edition of "Kew Gardens" unique and a delight to read. 
 
 ### Documenting your work
